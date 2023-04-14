@@ -1,0 +1,19 @@
+{
+  "name": "search-indo-subdistrict",
+  "version": "1.0.0",
+  "description": "full-text-search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendarSu/search-indo-subdistrict.git"
+  },
+  "author": "hendarSu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendarSu/search-indo-subdistrict/issues"
+  },
+  "homepage": "https://github.com/hendarSu/search-indo-subdistrict#readme"
+}
